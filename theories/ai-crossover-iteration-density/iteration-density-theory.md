@@ -8,7 +8,8 @@ published: "2025-12-26"
 license: "CC BY 4.0"
 ---
 
-# Iteration Density Theory — Director’s Cut (canonical)
+# The Crossover - AI Iteration Density Theory — Director’s Cut (canonical)
+*Director’s Cut (canonical)*
 
 ## 1. What this idea is about (plain, unsentimental)
 
