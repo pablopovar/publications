@@ -11,7 +11,7 @@ hero_desktop: "chatgpt-tab-suspension-hero"
 hero_mobile: "chatgpt-tab-suspension-hero"
 summary: "A first-person report on browser load, tab lifecycle management, and a simple suspension pattern used to reduce local friction while working with ChatGPT."
 weight: 
-license: "CC BY 4.0 (Creative Commons Attribution 4.0 International)""
+license: "CC BY 4.0 (Creative Commons Attribution 4.0 International)"
 ---
 # ChatGPT Tab Suspension method: a small workflow adaptation
 
