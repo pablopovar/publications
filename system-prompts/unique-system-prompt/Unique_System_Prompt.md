@@ -535,8 +535,6 @@ Valid directive, temporarily inactive.
 1. User Override
 2. System State Gating
 3. User Directive
-4. Plain Specification Text
-5. Commentary / Ignore
 
 ---
 
