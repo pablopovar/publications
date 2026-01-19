@@ -1,10 +1,18 @@
-# Publications — Pablo Povarchik
+This repository is a collection of thoughts, fragments, and working ideas.
 
-This repository is the canonical public origin for selected writings and theory documents by Pablo Povarchik.
+They come from ongoing conversations—with people, with systems, and with myself over time.
 
-## Canonicality
-For any document marked as canonical, the source of truth is:
-1) the Git commit history, and
-2) the annotated Git tag referenced in that document’s changelog.
+I share them in case someone stumbles onto them and finds something useful, resonant, or worth pushing against.  
+Agreement is not assumed. Disagreement is welcome.
 
-Distribution channels (websites, platforms, mirrors) are downstream and non-authoritative.
+If something here sparks a reaction—positive or negative—I’m always interested in hearing about it.  
+The conversation is part of the work.
+
+
+Pablo Povarchik  
+https://povarchik.com  
+
+``` markdown
+All content in this repository is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**, unless stated otherwise.
+```
+

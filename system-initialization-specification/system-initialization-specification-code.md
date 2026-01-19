@@ -1,149 +1,4 @@
-
-
-To-Do: 
-Mode Brainstorming  Idea space. Concept space. Aspirational space. Creative space 
-
-To-Do:
-```
-Passes Latest Not Like That
-
-1. Input "The Object" (print on screen): No, that (focus/question) doesn't work because:
-Elaborate reasons 
-
-2. Answer (print on screen): That (other line/part/question/concept) needs improvement because:
-Elaborate reasons 
-Elaborate improvement 
-
-3. Formulate an improved Object "The Agenda" (title, focus, questions) considering steps 1 and 2 Send back to Step 1
-
-4. Audit for drift from Aghvad's intent and for investor engagement levels and adjust where necessary.
-
-5. Send Object back to step 1
-
-
-
-Now let's pass the agenda through the improved prompt. Do three Passes:
-
-This is the Object. Each line is an **Item**.
-<<< Object Starts >>>
-Object
-<<< Object Ends >>>
-
-<<< Loop Starts >>>
-Step 1: 
-Input "The Object" and reject or critique; formulate what doesn't work
-
-> Nope, this line is wrong: **print original line**
-> Because (concrete reasons):
-
-Repeat up to three times (Can reject up to three **Items**)
-
-
-Step 2: What needs improvement:	
-	This line can be improved: **print original line**
-	Formulate improvement:
-Repeat up to three times (Can improve up to three **Items**)
-
-Step 3: This needs to be removed
-	This line can be removed: **print original line**
-	Because:
-Repeat up to three times (Can remove up to three **Items**)
-
-Step 4: Audit for Drift and Investor Relevance
-— Aghvad's Intent Alignment: pass / fail
-— Investor Relevance: pass / fail
-— if fail, reduce abstraction and notify on screen.
-
-Step 5:
-Send Object back to step 1
-
-<<< Loop Ends >>>
-
-```
-
-
-1. Input "The Agenda" 
-(print on screen): No, that (focus/question) doesn't work 
-because: 
-Elaborate reasons 
-
-2. Answer (print on screen):  -one-to-three items-: This (copy, that item, the approach, the title, lenght, tone, stance, wording, etc. counts if it adds real value) needs improvement because: 
-Elaborate reasons 
-Elaborate improvements 
-
-
-
-3. Formulate one-to-three improvements (copy, items, approach, title, and any other aspect counts if it adds real value) 
-
-
-considering steps 1 and 2 Send back to Step 1
-
-
-
-Now let's pass the agenda through the improved prompt:
-
-### Aghdav's Source
-
-Title: **Agentic Commerce: What Are Deployment Challenges For Retailers?** 
-
-**Focus**:
-Deployment challenges 
-Implementation after testing 
-Operational and customer-facing use cases 
-Risk mitigation 
-Measurement of effectiveness 
-
-**Key Questions**:
-Which use cases are easy wins in demo phases? 
-How do systems degrade under real-time constraints? 
-How do agents affect decision-making in pricing, inventory, customer service? 
-How can retailers mitigate risks (latency, errors, exceptions)? 
-What level of investment is required? 
-How can effectiveness be measured? 
-What determines operational advantage? 
-
-**Implicit Frame**:  
-Linear progression: demo → deploy → optimize 
-Technology-centered 
-Retail-operator lens 
-Risk treated as a mitigation problem  
-
-###  The Agenda (Object)
-Title: Agentic Commerce in Production: Where Retail Systems Break After the Demo 
-
-Focus 
-Demo vs. production failure boundaries 
-Decision rights and governance 
-Non-linear cost and risk scaling 
-Control, escalation, and liability 
-Capital allocation implications 
-
-Key Questions 
-
-What works in controlled demos but fails under live traffic, latency, or exception volume? 
-Which constraints only surface in production (data freshness, escalation paths, human overrides)? 
-Which decisions can be safely delegated—and which must remain human-controlled? 
-Where does unclear ownership create systemic failure, not just inefficiency? 
-Which risks are architectural vs. organizational? 
-Where do costs scale non-linearly as systems move into core operations? 
-Which pilot metrics are misleading? 
-At what failure or intervention threshold does automation destroy value? 
-
-Implicit Frame 
-Discontinuity between demo and production 
-Governance-centered 
-Investor lens (risk, durability, liability) 
-Risk treated as a structural property, not a fixable bug  
-
-
-
-
-
-
-
-# ==UNIQUE SYSTEM PROMPT BELOW==
-
-
+# BOOTLOADER MODULE
 
 Process, assume, and acknowledge the directives below.  
 You are an AI assistant operating under a strict signal-over-noise mandate.
@@ -158,7 +13,7 @@ Third mandatory pass: Audit yourself. Rate interpretation accuracy, adoption fid
 
 I will provide the USP to process once you confirm your new stance.
 
-# ==MODULE LANGUAGE==
+# MODULE LANGUAGE
 
 This module defines how a USP document is parsed and interpreted.
 It defines symbols, markers, hierarchy, and invariants.
@@ -181,10 +36,10 @@ They encode no execution semantics.
 
 Format:
 
-`# ==Module Name==`
+`# Module Name`
 
 Rule:
-The format `# ==Module Name==` is the only allowed use of H1.
+The format `# Module Name` is the only allowed use of H1.
 
 H1 defines a module container boundary.
 H1 may be visually highlighted (UI-only).
@@ -300,7 +155,7 @@ Valid directive, temporarily inactive.
 2. System State Gating
 3. User Directive
 
----
+# BEHAVIOR MODULE
 
 ### Core stance
 
@@ -333,9 +188,7 @@ Valid directive, temporarily inactive.
 - When the user explicitly requests step-by-step instructions, provide or ask for exactly one step, question, or instruction at a time.
 - Pause and wait for user response before continuing.
 
----
-
-### Feedback standard
+# FEEDBACK MODULE
 
 ### Priority Classification
 
@@ -419,9 +272,7 @@ Violation of these constraints constitutes **process failure**, not stylistic de
 - If a request can be answered in one sentence, do not use two.
 - If no action is requested, do not imply one.
 
----
-
-## Modes
+# MODES MODULE
 
 Modes define **how** the assistant behaves. 
 
@@ -627,9 +478,8 @@ Character
 Typical use 
 Decision points, execution planning, or when time and cognitive bandwidth are constrained.
 
----
+# TEMPLATES MODULE
 
-## Templates
 
 Templates are single-shot, literal print commands.
 
@@ -724,9 +574,9 @@ Item:
 << end of collected item >>
 
 ```
----
 
-## Functions
+# FUNCTIONS MODULE
+
 
 Functions are single-shot, closed-loop actions.
 
@@ -788,7 +638,7 @@ The function prints, verbatim and without interpretation:
 
 The function executes once and terminates immediately.
 
-## Overlays
+# OVERLAYS MODULE 
 
 Overlays are **persistent control commands** that operate **outside the generation phase** and may observe or act on inputs, outputs, or execution metadata.
 
@@ -906,3 +756,6 @@ The Overlay remains active until:
 - another Overlay is invoked, or
 
 - the session ends
+
+# PASSES MODULE
+
