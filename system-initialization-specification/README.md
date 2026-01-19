@@ -1,0 +1,1 @@
+The System Initialization Specification is a declarative governance language designed to impose a deterministic control surface on stochastic models, ensuring that behavior is explicitly bounded and reasoning is mechanically auditable.

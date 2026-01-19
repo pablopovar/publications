@@ -2,7 +2,7 @@
 hero_title: "Cognitive leverage operators for thinking and AI systems"
 title: "Cognitive Leverage Operators: Language as a Control Surface for Thought"
 slug: "cognitive-leverage-operators"
-canonical_url: "https://github.com/pablopovar/publications/blob/main/system-prompts/unique-system-prompt/Cognitive-Leverage_Operators.md"
+canonical_url: "https://github.com/pablopovar/publications/blob/main/cognitive-leverage-operators/cognitive-leverage-operators.md"
 date: 2026-01-16
 draft: false
 description: "A lexicon of cognitive leverage operators: operative language that changes the geometry of search, breaks local optimization loops, and forces non-incremental moves in human reasoning and AI systems."
@@ -20,7 +20,7 @@ seo_description: "A practical lexicon of cognitive leverage operators—operativ
 
 **Director’s Cut**
 <span style="float:right; font-size:0.9em;">
-[Canonical Version ↗](https://github.com/pablopovar/publications/blob/main/system-prompts/unique-system-prompt/Cognitive-Leverage_Operators.md)
+[Canonical Version ↗](https://github.com/pablopovar/publications/blob/main/cognitive-leverage-operators/cognitive-leverage-operators.md)
 </span>
 
 
@@ -465,5 +465,5 @@ These are supporting concepts, not operators. Deduplicated and normalized.
 
 > Canonical reference:
 > *The canonical version of this essay is maintained on GitHub and should be treated as the authoritative source:*
-> *https://github.com/pablopovar/publications/blob/main/system-prompts/unique-system-prompt/Cognitive-Leverage_Operators.md*
+> *https://github.com/pablopovar/publications/blob/main/cognitive-leverage-operators/cognitive-leverage-operators.md*
 > *This blog mirrors the canonical version as of January 16, 2026.*
