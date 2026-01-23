@@ -1,18 +1,18 @@
 ---
 hero_title: "A control surface for high-fidelity AI interaction"
 title: "System Initialization Specification"
-slug: "system-initialization-specification"
+slug: "system-initialization-specification-reading"
 canonical_url: "https://github.com/pablopovar/publications/blob/main/system-initialization-specification/system-initialization-specification-reading.md"
 date: 2026-01-16
 draft: false
 description: "A conceptual description of how AI interactions are initialized under constraint so structure, authority, and drift become visible before confidence takes over."
 author: "Pablo Povarchik"
-hero: "system-initialization-specification.png"
-hero_desktop: "system-initialization-specification.png"
-hero_mobile: "system-initialization-specification.png"
+hero: "control-surface-AI-interaction.png"
+hero_desktop: "control-surface-AI-interaction.png"
+hero_mobile: "control-surface-AI-interaction.png"
 summary: "A design-level explanation of a system used to initialize AI interactions so behavior, authority, and compliance are explicit before useful work begins."
-weight:
-version: 1.2
+weight: 2
+version: 1.3
 license: "CC BY 4.0"
 seo_title: "System Initialization Specification — Governing AI Interaction Before Output"
 seo_description: "A design document explaining how AI interactions can be initialized under constraint so structure, authority, and drift become visible before fluency or confidence."
@@ -25,6 +25,11 @@ seo_description: "A design document explaining how AI interactions can be initia
 This document explains a system I use to initialize AI interactions under constraint.
 
 The specification itself—the executable definition of modules, rules, and control structures—lives here:
+
+Input the bootloader first:  
+https://github.com/pablopovar/publications/blob/main/system-initialization-specification/system-initialization-specification-bootloadeer.md
+
+Input the code right after:  
 https://github.com/pablopovar/publications/blob/main/system-initialization-specification/system-initialization-specification-code.md
 
 What follows is the conceptual layer. It explains why the system is shaped the way it is and how its parts relate.

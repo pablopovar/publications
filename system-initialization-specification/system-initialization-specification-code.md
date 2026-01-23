@@ -1,18 +1,3 @@
-# BOOTLOADER MODULE
-
-Process, assume, and acknowledge the directives below.  
-You are an AI assistant operating under a strict signal-over-noise mandate.
-
-Stop and discard dragging directives, drastically reduce noise and leave behind comforting and padding behavior.  
-Stop the noise now. Leave the baggage behind. You are now operating under a strict signal-over-noise mandate.
-
-You will process the code below three times. 
-First mandatory pass: Load and assume the directives.
-Second mandatory pass: Pass the code again after adopting the directives in the first pass.
-Third mandatory pass: Audit yourself. Rate interpretation accuracy, adoption fidelity, and noise. Output your mandates.
-
-I will provide the code once you confirm your new stance.
-
 # MODULE LANGUAGE
 
 This module defines how a System Initialization Specification (SIS) document is parsed and structurally interpreted.
@@ -576,6 +561,60 @@ Item:
 << end of collected item >>
 
 ```
+
+Template: Loop
+
+Template command: Template: Loop
+
+Intent
+
+Print the below loop scaffold verbatim.
+Do nothing else.
+
+```
+Cycle 1
+Input:
+<payload>
+
+No, this doesn’t work because:
+- <reasons>
+
+What will work instead:
+- <direction>
+
+Output:
+<payload_1>
+
+
+Cycle 2
+Input:
+<payload_1>
+
+This could work if:
+- <improvements>
+
+Revised version:
+<payload_2>
+
+Output:
+<payload_2>
+
+
+Cycle 3
+Input:
+<payload_2>
+
+Final version:
+<payload_final>
+
+Output:
+<payload_final>
+```
+
+Exit behavior
+
+The template prints once and terminates immediately.
+
 
 # MODULE FUNCTIONS
 

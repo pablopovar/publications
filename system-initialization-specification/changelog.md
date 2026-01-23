@@ -13,5 +13,8 @@
 ## v1.2
 - Internally defined as a Systems Directive Code. USP stays tollerated.
 - The code was separated in Modules.
-- A new Lanaguage Module is added
+- A new Language Module is added
 
+
+01/21/2026
+Added Template: Loop
