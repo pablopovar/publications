@@ -2,7 +2,7 @@
 hero_title: "Before the Code Exists"
 title: "Before the Code Exists, the Decision Is Already Made"
 slug: "before-the-code-exists-the-decision-is-already-made"
-canonical_url: "https://github.com/pablopovar/publications/blob/main/observations/before-the-code-exists-the-decision-is-already-made.md"
+canonical_url: "https://github.com/pablopovar/publications/blob/main/before-the-code-exists-the-decision-is-already-made/before-the-code-exists-the-decision-is-already-made-field-notes.md"
 date: 2026-01-23
 draft: false
 description: "Field notes describing a recurring organizational moment where visible technical success quietly collapses optionality and decisions harden before implementation begins."
