@@ -2,7 +2,8 @@
 hero_title: "Where decisions actually happen"
 title: "You Decided"
 slug: "you-decided"
-canonical_url: "https://povarchik.com/you-decided"
+canonical_url: "https://github.com/pablopovar/publications/blob/main/you-decided/you-decided.md"
+canonical: "https://github.com/pablopovar/publications/blob/main/you-decided/you-decided.md"
 date: 2026-01-16
 draft: false
 description: "An examination of where decisions actually occur in AI-assisted work, and why responsibility is already settled by the time output appears."
