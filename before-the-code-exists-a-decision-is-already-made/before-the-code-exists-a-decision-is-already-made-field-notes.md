@@ -1,10 +1,11 @@
 ---
-hero_title: "Before the Code Exists, a Decision Is Already Made (field notes)"
+hero_title: "Before the Code Exists"
 title: "Before the Code Exists, a Decision Is Already Made (field notes)"
 title_break: true
 # classifier: "field notes"
 slug: "before-the-code-exists-a-decision-is-already-made-field-notes"
 canonical_url: "https://github.com/pablopovar/publications/blob/main/before-the-code-exists-a-decision-is-already-made/before-the-code-exists-a-decision-is-already-made-field-notes.md"
+canonical: "https://github.com/pablopovar/publications/blob/main/before-the-code-exists-a-decision-is-already-made/before-the-code-exists-a-decision-is-already-made-field-notes.md"
 date: 2026-01-23
 draft: false
 author: "Pablo Povarchik"
@@ -130,4 +131,10 @@ The code is not written yet.
 ---
 
 The calendar is full.
+
+---
+.
+<span style="float:right; font-size:0.9em;">
+[Canonical Version ↗](https://github.com/pablopovar/publications/blob/main/before-the-code-exists-a-decision-is-already-made/before-the-code-exists-a-decision-is-already-made-field-notes.md)
+</span>
 

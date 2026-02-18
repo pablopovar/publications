@@ -1,32 +1,24 @@
 ---
-hero_title: "Cognitive leverage operators for thinking and AI systems"
-title: "Cognitive Leverage Operators: Language as a Control Surface for Thought"
+title: "Cognitive Leverage Operators: Language as a Control Surface for AI Systems"
+description: "A lexicon of cognitive leverage operators: operative language that changes the  geometry of search, breaks local optimization loops, and forces non-incremental moves in human reasoning and AI systems."
+title_break: true
+summary: "Cognitive leverage operators are compressed procedures—words that act as control inputs on frames, constraints, and feedback loops. This article defines core operators and a longer set of micro operators for reframing, orthogonality, and search-space traversal in thinking and AI systems."
 slug: "cognitive-leverage-operators"
-canonical_url: "https://github.com/pablopovar/publications/blob/main/cognitive-leverage-operators/cognitive-leverage-operators.md"
+canonical: "https://povarchik.com/cognitive-leverage-operators/"
 date: 2026-01-16
 draft: false
-description: "A lexicon of cognitive leverage operators: operative language that changes the geometry of search, breaks local optimization loops, and forces non-incremental moves in human reasoning and AI systems."
-author: "Pablo Povarchik"
-hero: ""
+hero: "cognitive-leverage-operators.webp"
 hero_desktop: ""
 hero_mobile: ""
-summary: "Cognitive leverage operators are compressed procedures—words that act as control inputs on frames, constraints, and feedback loops. This article defines core operators and a longer set of micro operators for reframing, orthogonality, and search-space traversal in thinking and AI systems."
-weight:
+weight: 30
 version: 1.0
 license: "CC BY 4.0"
-seo_title: "Cognitive Leverage Operators for Thinking and AI Systems"
-seo_description: "A practical lexicon of cognitive leverage operators—operative language that reshapes search-space geometry, breaks local optima, and reframes problems in human reasoning and AI systems."
+author: "Pablo Povarchik"
 ---
-
 **Director’s Cut**
 <span style="float:right; font-size:0.9em;">
-[Canonical Version ↗](https://github.com/pablopovar/publications/blob/main/cognitive-leverage-operators/cognitive-leverage-operators.md)
+[Canonical Version ↗](https://povarchik.com/cognitive-leverage-operators/)
 </span>
-
-
-# Cognitive Leverage Operators for Thinking and AI Systems
-
-### Language as a control surface for thought
 
 ---
 
@@ -195,7 +187,7 @@ Each operator is a transformation verb. Minimal definitions only.
 
 ### Micro Operators
 
-##### Frame and basis
+#### Frame and basis
 
 **Explode the basis**: Explode the basis. Enumerate foundational assumptions and invalidate them one by one. Anything that cannot be re-derived is non-essential.
 
@@ -223,7 +215,7 @@ Each operator is a transformation verb. Minimal definitions only.
 
 **Scramble coordinates**: Scramble coordinates. Randomize mappings between representation and meaning. Identify which relations survive.
 
-##### Randomness and entropy
+#### Randomness and entropy
 
 **Random adjacency**: Force random adjacency between A and B. Observe emergent interactions that never co-occurred naturally.
 
@@ -247,7 +239,7 @@ Each operator is a transformation verb. Minimal definitions only.
 
 **Asymmetric randomness**: Apply asymmetric randomness. Uneven noise across variables. Identify symmetry breaking.
 
-##### Dimensional operations
+#### Dimensional operations
 
 **Jump dimensions**: Jump dimensions. Reformulate the problem in higher or lower dimensional space. If constraints persist, they are invariant.
 
@@ -267,7 +259,7 @@ Each operator is a transformation verb. Minimal definitions only.
 
 **Dimensional misalignment**: Operate under dimensional misalignment. Allow axes that don’t map cleanly. Observe interpretive failure points.
 
-##### Constraints and coupling
+#### Constraints and coupling
 
 **Hard boundary**: Impose a hard boundary at B. If behavior violates B, enforcement is illusory.
 
@@ -299,7 +291,7 @@ Each operator is a transformation verb. Minimal definitions only.
 
 **Asymmetrical coupling**: Apply asymmetrical coupling. Allow one-way influence. Observe power imbalance.
 
-##### Iteration and feedback
+#### Iteration and feedback
 
 **Collapse the loop**: Collapse the loop. Remove recursion. If behavior persists, feedback was non-causal.
 
@@ -317,7 +309,7 @@ Each operator is a transformation verb. Minimal definitions only.
 
 **Iteration pressure**: Increase iteration pressure. Shorten cycles until decision quality degrades.
 
-##### Surface and topology
+#### Surface and topology
 
 **Rupture the surface**: Rupture the surface. Introduce discontinuity. Observe what fails to traverse.
 
@@ -335,7 +327,7 @@ Each operator is a transformation verb. Minimal definitions only.
 
 **Outside becomes inside**: Invert inside and outside. Treat context as content.
 
-##### Signal, noise, coherence
+#### Signal, noise, coherence
 
 **Signal inversion**: Invert signal and noise. Treat errors as information.
 
@@ -369,7 +361,7 @@ Each operator is a transformation verb. Minimal definitions only.
 
 **Unstable equilibrium**: Probe unstable equilibrium. Apply minimal push. Observe divergence.
 
-##### Perspective and models
+#### Perspective and models
 
 **Forced reframing**: Force reframing. Apply incompatible interpretive lens abruptly.
 
@@ -385,7 +377,7 @@ Each operator is a transformation verb. Minimal definitions only.
 
 **Worldview rupture**: Induce worldview rupture. Break foundational interpretation.
 
-##### Time and causality
+#### Time and causality
 
 **Time compression**: Compress time. Collapse duration. Observe density effects.
 
@@ -403,7 +395,7 @@ Each operator is a transformation verb. Minimal definitions only.
 
 **Past inertia**: Measure past inertia. Quantify resistance from history.
 
-##### Agency and control
+#### Agency and control
 
 **Relinquish control**: Relinquish control. Observe self-organization.
 
@@ -427,7 +419,7 @@ Each operator is a transformation verb. Minimal definitions only.
 
 **Decision lag**: Measure decision lag. Compare choice time to execution.
 
-##### Reality and meaning
+#### Reality and meaning
 
 **Reality split**: Detect reality split. Compare lived experience to abstract model.
 
@@ -445,7 +437,7 @@ Each operator is a transformation verb. Minimal definitions only.
 
 ---
 
-## Auxiliary / meta words (non-operators, standardized)
+### Auxiliary / meta words (non-operators, standardized)
 
 These are supporting concepts, not operators. Deduplicated and normalized.
 
@@ -462,8 +454,3 @@ These are supporting concepts, not operators. Deduplicated and normalized.
 - feedback — output influencing input
 - control theory / cybernetics — steering systems via feedback
 - systems theory / complexity — interacting components, emergence
-
-> Canonical reference:
-> *The canonical version of this essay is maintained on GitHub and should be treated as the authoritative source:*
-> *https://github.com/pablopovar/publications/blob/main/cognitive-leverage-operators/cognitive-leverage-operators.md*
-> *This blog mirrors the canonical version as of January 16, 2026.*

@@ -1,26 +1,21 @@
 ---
-hero_title: "Where decisions actually happen"
 title: "You Decided"
 slug: "you-decided"
-canonical_url: "https://github.com/pablopovar/publications/blob/main/you-decided/you-decided.md"
-canonical: "https://github.com/pablopovar/publications/blob/main/you-decided/you-decided.md"
+url: "/you-decided/"
+canonical: "https://povarchik.com/you-decided/"
 date: 2026-01-16
 draft: false
-description: "An examination of where decisions actually occur in AI-assisted work, and why responsibility is already settled by the time output appears."
+# description: "An examination of where decisions actually occur in AI-assisted work, and why responsibility is already settled by the time output appears."
 author: "Pablo Povarchik"
 hero: 
 hero_desktop:
 hero_mobile:
-summary: "A forensic look at how decisions are completed upstream—through framing, acceptance, and iteration—long before AI output is observed."
+# summary: "A forensic look at how decisions are completed upstream—through framing, acceptance, and iteration—long before AI output is observed."
 weight: 45
 version: 1.0
 license: "CC BY 4.0"
-seo_title: "You Decided — Where Agency Actually Lives in AI Interaction"
-seo_description: "A clear-eyed analysis showing how human decisions are already complete by the time AI output appears, and why misplacing agency obscures causality."
 ---
 
-
-# You Decided
 
 Something subtle changed when AI systems started saying *“you decided.”*
 

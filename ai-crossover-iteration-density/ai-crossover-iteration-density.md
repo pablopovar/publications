@@ -1,15 +1,27 @@
 ---
 title: "The Crossover — AI Iteration Density Theory"
-author: "Pablo Povarchik"
-canonical: true
-status: "canonical"
-version: "v1.0"
+slug: "the-crossover-ai-iteration-density-theory" 
+url: "/the-crossover-ai-iteration-density-theory/"
+canonical: "https://povarchik.com/the-crossover-ai-iteration-density-theory/"
+date: 2026-01-16
+# status: "mirror"
 published: "2025-12-26"
+draft: false
+#description: "A theory describing how AI introduces a qualitative shift by collapsing iteration cost, increasing iteration density, and creating a crossover point where judgment, not effort, becomes the limiting factor."
+author: "Pablo Povarchik"
+hero: "the-crossover-desktop.webp"
+hero_desktop: 
+hero_mobile: 
+summary: "A conceptual framework explaining how AI-driven iteration density creates a crossover moment where speed, feedback loops, and judgment fundamentally change how thinking, building, and decision-making operate."
+weight: 10
+version: 1.0
 license: "CC BY 4.0"
 ---
 
-# The Crossover - AI Iteration Density Theory — Director’s Cut (canonical)
-*Director’s Cut (canonical)*
+**Director’s Cut**
+<span style="float:right; font-size:0.9em;">
+[Canonical Version ↗](https://github.com/pablopovar/publications/blob/main/ai-iteration-density-theory/ai-iteration-density-theory.md)
+</span>
 
 ## 1. What this idea is about (plain, unsentimental)
 
@@ -320,3 +332,8 @@ By collapsing the cost of exploration and accelerating feedback loops, AI transf
 This creates uneven but compounding acceleration across science and engineering, increasingly driven by small actors and edge experimentation.
 Once discovery loops outrun human organizational latency, progress becomes self-reinforcing at the ecosystem level — not because AI “wakes up,” but because iteration closes its own loops.
 
+---
+> Canonical reference:
+> *The canonical version of this essay is maintained on GitHub and should be treated as the authoritative source:*
+> *https://github.com/pablopovar/publications/blob/main/ai-iteration-density-theory/ai-iteration-density-theory.md*
+> *This blog mirrors the canonical version as of December 26, 2025.*
