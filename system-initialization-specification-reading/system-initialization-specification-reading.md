@@ -1,8 +1,8 @@
 ---
-hero_title: "A control surface for high-fidelity AI interaction"
 title: "System Initialization Specification"
 slug: "system-initialization-specification-reading"
-canonical_url: "https://github.com/pablopovar/publications/blob/main/system-initialization-specification/system-initialization-specification-reading.md"
+url: "/system-initialization-specification-reading/"
+canonical: "https://povarchik.com/system-initialization-specification-reading/"
 date: 2026-01-16
 draft: false
 description: "A conceptual description of how AI interactions are initialized under constraint so structure, authority, and drift become visible before confidence takes over."
@@ -14,8 +14,6 @@ summary: "A design-level explanation of a system used to initialize AI interacti
 weight: 2
 version: 1.3
 license: "CC BY 4.0"
-seo_title: "System Initialization Specification — Governing AI Interaction Before Output"
-seo_description: "A design document explaining how AI interactions can be initialized under constraint so structure, authority, and drift become visible before fluency or confidence."
 ---
 
 # System Initialization Specification
@@ -26,11 +24,7 @@ This document explains a system I use to initialize AI interactions under constr
 
 The specification itself—the executable definition of modules, rules, and control structures—lives here:
 
-Input the bootloader first:  
-https://github.com/pablopovar/publications/blob/main/system-initialization-specification/system-initialization-specification-bootloadeer.md
-
-Input the code right after:  
-https://github.com/pablopovar/publications/blob/main/system-initialization-specification/system-initialization-specification-code.md
+[SIS Code](https://povarchik.com/system-initialization-specification-code/)
 
 What follows is the conceptual layer. It explains why the system is shaped the way it is and how its parts relate.
 

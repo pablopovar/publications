@@ -19,9 +19,6 @@ license: "CC BY 4.0"
 ---
 
 **Director’s Cut**
-<span style="float:right; font-size:0.9em;">
-[Canonical Version ↗](https://github.com/pablopovar/publications/blob/main/ai-iteration-density-theory/ai-iteration-density-theory.md)
-</span>
 
 ## 1. What this idea is about (plain, unsentimental)
 
@@ -331,9 +328,3 @@ AI’s real impact is not intelligence but iteration density.
 By collapsing the cost of exploration and accelerating feedback loops, AI transforms knowledge creation into a high-throughput process.
 This creates uneven but compounding acceleration across science and engineering, increasingly driven by small actors and edge experimentation.
 Once discovery loops outrun human organizational latency, progress becomes self-reinforcing at the ecosystem level — not because AI “wakes up,” but because iteration closes its own loops.
-
----
-> Canonical reference:
-> *The canonical version of this essay is maintained on GitHub and should be treated as the authoritative source:*
-> *https://github.com/pablopovar/publications/blob/main/ai-iteration-density-theory/ai-iteration-density-theory.md*
-> *This blog mirrors the canonical version as of December 26, 2025.*

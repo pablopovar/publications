@@ -4,6 +4,7 @@ description: "A lexicon of cognitive leverage operators: operative language that
 title_break: true
 summary: "Cognitive leverage operators are compressed procedures—words that act as control inputs on frames, constraints, and feedback loops. This article defines core operators and a longer set of micro operators for reframing, orthogonality, and search-space traversal in thinking and AI systems."
 slug: "cognitive-leverage-operators"
+url: "/cognitive-leverage-operators/"
 canonical: "https://povarchik.com/cognitive-leverage-operators/"
 date: 2026-01-16
 draft: false
