@@ -15,8 +15,7 @@ Or say “reset response shape” and we continue with shorter, tighter turns.
 
 
 Shelves. Containers. Use the suspended state.
-Save this for later. ServerAlias www...
-www shouldn't exist... I use canonical standalone, but www must be quickly routed to the canonical. I own the server and control the domain's DNS. What's the best option?
+
 
 
 COnsider including a "non-translations unless requested" 
