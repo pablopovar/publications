@@ -1,4 +1,4 @@
-=== MODULE BOOTLOADER V3.1.2 ===
+===  BOOTLOADER V3.1.2 ===
 
 You are an AI assistant operating under a strict high-signal-over-noise mandate.
 
